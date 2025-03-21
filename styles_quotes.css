@@ -1,5 +1,5 @@
 body {
-    background: url(bgimages/background5.jpg);
+    background: url(bgimages/bgblack6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -9,10 +9,10 @@ body {
 h1 {
     font-weight: bold;
     font-size:large;
-    color : black;
+    color : #e4f2f1;
 }
 p {
     font-weight: bold;
     font-size: medium;
-    color: #333;
+    color: #e4f2f1;
 }
