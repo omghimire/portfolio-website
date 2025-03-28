@@ -1,14 +1,14 @@
 body {
-    background-color:white;
+    background-color:#a000c8;
     font-family: 'Times New Roman', Times, serif;
 }
 h1 {
     font-weight: bold;
     font-size:large;
-    color :#0A0500;
+    color :white;
 }
 p {
     font-weight: bold;
     font-size: medium;
-    color: #0A0500;
+    color: white;
 }
